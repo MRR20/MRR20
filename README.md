@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MRR20
 - 👀 I’m interested in ... AI & Machine learning
-- 🌱 I’m currently learning ...Deep Learning & Reinforcement Learning
+- 🌱 I’m currently working on ...Deep Learning & Reinforcement Learning
 - 💞️ I’m looking to collaborate on ...AI projects
 - 📫 How to reach me ...[LinkedIn](https://www.linkedin.com/in/ruthvik03/)
 
